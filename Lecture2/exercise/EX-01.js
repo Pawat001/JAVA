@@ -1,0 +1,3 @@
+function findPerimeter(length, width) {
+    
+}
